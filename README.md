@@ -1,5 +1,6 @@
 # SudokuSolver
-# C++ program for 9*9 Sudoku
+# C++ program for 9*9 Sudoku   
+  
 ## Download the file and execute it.
 #### Directly feed the SUDOKU MATRIX
 ### Format of Sudoku Matrix:-
