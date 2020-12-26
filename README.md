@@ -3,7 +3,7 @@
 ## Download the file and execute it.
 #### Directly feed the SUDOKU MATRIX
 ### Format of Sudoku Matrix:-
--> "__"(blank spaces) to be feeded as "0"
+-> "__"(blank spaces) to be feeded as "0"    
 -> Already filled no. as it is .
 # eg:
 5 3 0 0 7 0 0 0 0     
